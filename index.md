@@ -15,9 +15,9 @@ title: Curriculum Vitae
 - Worked as an Intern at [Fedafin AG, Switzerland](https://www.fedafin.ch/de/index.html), St. Gallen, Switzerland; 2019
 
 ## Working Papers
-- *From surveys and theory to statistical methods. Which predictors can we trust? and when?*; Job Market Paper.
+- **From surveys and theory to statistical methods. Which predictors can we trust? and when?** *Job Market Paper*.
 
-- *What is the consumption-wealth return?*; with P. Schneider and P. Whelan.
+- **What is the consumption-wealth return?** *with P. Schneider and P. Whelan*.
 
 ## Conferences and Contributed Talks
 
