@@ -19,6 +19,8 @@ title: Curriculum Vitae
 
 - **What is the consumption-wealth return?** *with P. Schneider and P. Whelan*.
 
+- **Optimal Variance Swaps** *with E. Luzzi, P. Schneider and R. Sen*.
+
 ## Conferences and Contributed Talks
 
 - [**SFI (Swiss Finance Institute) Research Days**](https://www.sfi.ch/en/faculty/research-days), Gerzensee, Switzerland; 2022, June.
