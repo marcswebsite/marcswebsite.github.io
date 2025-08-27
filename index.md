@@ -15,7 +15,7 @@ title: Curriculum Vitae
 - Worked as an Intern at [Fedafin AG, Switzerland](https://www.fedafin.ch/de/index.html), St. Gallen, Switzerland; 2019
 
 ## Working Papers
-- **From surveys and theory to statistical methods. Which predictors can we trust? and when?** *Job Market Paper*.
+- **From surveys and theory to statistical methods. Which predictors can we trust? and when?**.
 
 - **What is the consumption-wealth return?** *with P. Schneider and P. Whelan*.
 
@@ -37,13 +37,13 @@ title: Curriculum Vitae
 
 ## Other Activities
 
-- PhD student representative of the Faculty of Economics, USI Lugano, Switzerland; 2023-2024.
+- PhD student representative of the Faculty of Economics, USI Lugano, Switzerland; 2023-2025.
 
 - Hiring Committee member for a position as Assistant Professor in Management and Organizations; USI Lugano, Switzerland; 2024. 
 
 ## Teaching Experience
 
-- Teaching assistant in **Arbitrage Pricing** *(Spring 2021, 2022, 2023, 2024)* and **Informatics II** *(Fall 2023)*; USI Lugano, Switzerland.
+- Teaching assistant in **Arbitrage Pricing** *(Spring 2021, 2022, 2023, 2024, 2025)* and **Informatics II** *(Fall 2023)*; USI Lugano, Switzerland.
 
 - Student assistant in **Calculus I** *(Fall 2016)*, **Calculus II** *(Spring 2016, Spring 2017)*, **Introduction to Stochastics** *(Fall 2016)*, **Probability Theory** *(Spring 2017)*; KIT, Germany.
 
