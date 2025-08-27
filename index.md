@@ -33,6 +33,8 @@ title: Curriculum Vitae
 
 - [**18th International Joint Conference CFE-CMEStatistics**](https://www.cmstatistics.org/CFECMStatistics2024/), London, UK; 2024, December.
 
+- [**SFI (Swiss Finance Institute) Research Days**](https://www.sfi.ch/en/faculty/research-days), Gerzensee, Switzerland; 2025, June.
+
 ## Other Activities
 
 - PhD student representative of the Faculty of Economics, USI Lugano, Switzerland; 2023-2024.
